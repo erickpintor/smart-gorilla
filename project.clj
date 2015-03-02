@@ -4,6 +4,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/data.json "0.2.5"]
                  [org.clojure/data.csv "0.1.2"]
+                 [org.clojure/data.xml "0.0.8"]
                  [ring/ring-codec "1.0.0"]
                  [clj-http "1.0.1"]]
   :plugins [[lein-gorilla "0.3.4"]]
