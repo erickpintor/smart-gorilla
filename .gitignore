@@ -3,9 +3,10 @@
 /target
 /classes
 /checkouts
+/.lein-*
+/.nrepl-port
+/.gorilla-port
 pom.xml
 pom.xml.asc
 *.jar
 *.class
-/.lein-*
-/.nrepl-port
