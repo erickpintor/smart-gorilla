@@ -1,7 +1,7 @@
 (defproject smart-gorilla "0.1.0-SNAPSHOT"
   :main ^:skip-aot gorilla-test.core
   :target-path "target/%s"
-  :dependencies [[org.clojure/clojure "1.7.0"]
+  :dependencies [[org.clojure/clojure "1.7.0-alpha6"]
                  [org.clojure/data.json "0.2.5"]
                  [org.clojure/data.csv "0.1.2"]
                  [org.clojure/data.xml "0.0.8"]
